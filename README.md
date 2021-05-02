@@ -4,9 +4,9 @@
 
 ## All About Me
 
-- 🔌 I’m **electronic engineering** honors graduate.
+- 🔌 I’m **electronic and computer systems engineering** honors graduate.
 - 📡 I work as **automation and RF test engineer**.
-- 💻 love **opensource** software and hardware.
+- 💻 I love **opensource** software and hardware.
 - 🚀 I'm wildly curious about all **technology** and am always learning new things.
 - 😄 Pronouns : **He/Him/His**
 
